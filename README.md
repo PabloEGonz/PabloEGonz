@@ -1,5 +1,5 @@
 
-[![MasterHead](https://twitter.com/PabloEzGon/header_photo)](https://PabloEGonz.io)
+[![MasterHead](https://twitter.com/PabloEzGon/header_photo)]([https://PabloEGonz.io](https://github.com/PabloEGonz))
 <h1 align="center">Hi 👋, I'm Ezequiel</h1>
 <h3 align="center">My passion is software engineering, and I love how we as developers can create anything we set our minds to.</h3>
 
