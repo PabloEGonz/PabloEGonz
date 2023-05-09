@@ -1,7 +1,7 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Ezequiel</h1>
-<h3 align="center">my passion is software engineering, and I love how we as developers can create anything we set our minds to.</h3>
+<h3 align="center">My passion is software engineering, and I love how we as developers can create anything we set our minds to.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabloegonz" alt="pabloegonz" /></a> </p>
 
