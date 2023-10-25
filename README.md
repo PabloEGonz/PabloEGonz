@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabloegonz" alt="pabloegonz" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://pabloegonz.github.io](https://pabloegonz.github.io)
+- 👨‍💻 Some of my projects are available at [https://my-portafolio-zeta-lemon.vercel.app/](https://my-portafolio-zeta-lemon.vercel.app/)
 
 - 📫 How to reach me **ezekielgonzalezr@gmail.com**
 
